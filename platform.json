@@ -91,7 +91,7 @@
     "tool-stm32duino": {
       "type": "uploader",
       "optional": true,
-      "version": "~1.0.1"
+      "version": "~1.5.0"
     },
     "tool-openocd": {
       "type": "uploader",
